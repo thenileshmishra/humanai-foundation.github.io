@@ -3,7 +3,7 @@ project: RenAIssance
 layout: default
 logo: DeepOCR.jpeg
 description: |
-   RenAIssance encompasses the use of optical character recognition (OCR) to digitize text sources that have not yet been targeted by existing tools. Its purpose is to explore machine learning techniques to enable OCR on a variety of materials that have never been digitized before. Additionally, RenAIssance aims to develop a comprehensive end-to-end tool for text recognition, streamlining the entire pipeline from image preprocessing to text extraction. It also seeks to establish a standardized benchmarking framework by collecting a common validation dataset, allowing for accurate ranking and evaluation of all previously developed models.
+RenAIssance utilizes optical character recognition (OCR) technology to digitize textual resources previously untouched by conventional tools. Its primary objective is to investigate advanced machine learning methodologies that apply OCR to diverse and previously undigitized materials. Moreover, RenAIssance aims to build an integrated, end-to-end solution for text recognition, effectively simplifying and optimizing the entire process from initial image preprocessing to final text extraction. Additionally, the project seeks to establish a standardized benchmarking framework by collecting a unified validation dataset, facilitating precise evaluation, comparison, and ranking of all developed OCR models.
 
 ---
 
